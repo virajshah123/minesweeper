@@ -1,2 +1,2 @@
 # minesweeper
- Flutter App for minesweeper game
+ Flutter App for minesweeper game. 
